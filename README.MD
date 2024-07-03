@@ -1,0 +1,1 @@
+I started learning C++ because of university classes and this is my first code. (The simplest possible code)
